@@ -1,3 +1,3 @@
 # Tictactoe
 Built with wgpu and rust.
-![](./.github/readme/screenshot.png)
+![Screenshot of the game](https://raw.githubusercontent.com/jamesbmadden/tictactoe/master/.github/README/screenshot.png)
